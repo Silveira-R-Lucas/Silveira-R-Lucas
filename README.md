@@ -1,4 +1,4 @@
-<img src="My_project-1_AdobeExpress.gif" width="960" height="480" align="center">
+<img src="My_project-1_AdobeExpress.gif" width="660" align="center">
  
 # Sou Lucas Silveira 🚀 ✨🚀 ✨🚀 ✨
 ### Desenvolvedor em ascenção e este é o meu repositório. 
