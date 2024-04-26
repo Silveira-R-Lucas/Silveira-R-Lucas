@@ -8,10 +8,9 @@
 
 
 
-- 👷 Analista de Tecnologia em LuizaLabs 
+- 👷 Desenvolvedor Back-end em LuizaLabs 
 - 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas na faculdade Descomplica
 - 📚 Aluno da Alura e CodeAcademy
-- 👩‍💻 Aprendendo muito sobre back-end
 - 🇺🇸 Inglês Avançado
 
 
