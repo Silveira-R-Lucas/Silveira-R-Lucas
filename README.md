@@ -1,7 +1,7 @@
 <img src="My_project-1_AdobeExpress.gif" width="35em" align="center">
  
 ## Sou Lucas Silveira 🚀 ✨🚀 ✨
-#### Desenvolvedor em ascencão e este é o meu repositório. 
+#### Desenvolvedor em ascensão e este é o meu repositório. 
   
 - 👷 Desenvolvedor Back-end em LuizaLabs 
 - 🇺🇸 Inglês Avançado 
